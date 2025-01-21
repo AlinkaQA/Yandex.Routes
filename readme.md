@@ -53,7 +53,8 @@
 Если выбрать режим «Оптимальный» или «Быстрый», система автоматически определит вид транспорта и построит маршрут. Панель видов транспорта станет неактивна.  
 
 ### Макеты
-<img width="615" alt="Макет 2025-01-21 в 17 33 42" src="https://github.com/user-attachments/assets/dfa5e925-b0f7-4816-a8b6-008ed7e90e41" />
+<img width="773" alt="Макет" src="https://github.com/user-attachments/assets/dced8997-7b13-49ed-9c75-0148bcc36fc5" />
+
 
 <img width="550" alt="Режим" src="https://github.com/user-attachments/assets/4e8b71dd-5d10-45f7-918d-d98c49d90a5c" />
 
