@@ -168,8 +168,7 @@ t = S/V
 <img width="762" alt="Снимок экрана 2025-01-22 в 17 44 49" src="https://github.com/user-attachments/assets/292a8710-1a66-473a-a187-f12aa827ca51" />
 
 #### Задача 2 
-<img width="1064" alt="Снимок экрана 2025-01-22 в 17 26 22" src="https://github.com/user-attachments/assets/0081cb48-7582-47a7-aefd-77ab623c2d81" />
-
+<img width="957" alt="Снимок экрана 2025-01-22 в 18 12 47" src="https://github.com/user-attachments/assets/7f7e9c3d-5717-4107-9e80-620ab55a4c02" />
 
 #### Задача 3 (Баг-репорты по 1 и 2 спринту)
 <img width="937" alt="б1" src="https://github.com/user-attachments/assets/ad852c95-f3c4-4d08-bbbc-4a7ab68db6b2" />
