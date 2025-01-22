@@ -153,10 +153,10 @@ t = S/V
 
 #### Задача 2 (планирование тестирования)
 **Техники-тест дизайна**  
-На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
-<img width="912" alt="часы-минуты" src="https://github.com/user-attachments/assets/dd3b510d-c892-427d-9220-7126f02ed5de" />
-<img width="908" alt="куда-откуда" src="https://github.com/user-attachments/assets/3321df8f-f18b-43e8-b16a-45f8ff38eefb" />
-<img width="907" alt="расстояние и скорость" src="https://github.com/user-attachments/assets/df03592f-a514-4e20-9b4f-3227c5ef77ab" />
+<img width="911" alt="часы-минуты" src="https://github.com/user-attachments/assets/2987aa06-fa6a-4f90-8841-a690ae858314" />
+<img width="909" alt="откуда-куда" src="https://github.com/user-attachments/assets/2751f061-e06a-4e5d-92c1-09461ef46764" />
+<img width="909" alt="расстояние-скорость" src="https://github.com/user-attachments/assets/748f96b1-da80-4a5f-ab2f-b4946d53b811" />
+
 
 ### 2 спринт
 #### Задача 2 (проектирование тестовой документации)
