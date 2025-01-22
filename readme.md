@@ -131,23 +131,10 @@ t = S/V
 </details>
 
 ## Инструменты
-
-## Инструменты
-
-<p align="left"> 
-  <a href="https://docs.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Таблицы" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  </a>
-  <a href="#" target="_blank" rel="noreferrer">
-    <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" />
-  </a>
-  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" />
-  </a>
-</p>
+- [Google Sheets](https://docs.google.com/)
+- [Figma](https://www.figma.com/)
+- ![Devtools](https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png)
+- [Youtrack](https://www.jetbrains.com/youtrack/)
 
 ## Процесс работы
 ### 1 спринт
