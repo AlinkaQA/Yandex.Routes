@@ -8,7 +8,7 @@
 
 ## Содержание
 - [Задачи тестировщика](#задачи-тестировщика)
-- [Требования по проекту](#требования-по-проекту)
+- [Требования к проекту](#требования-к-проекту)
 - [Инструменты](#инструменты)
 - [Процесс работы](#процесс-работы)
   - [1 спринт](#1-спринт)
@@ -43,7 +43,7 @@
 
 ***
 
-## Требования по проекту
+## Требования к проекту
 
 <details>
 <summary>Требования к сервису Яндекс Маршруты 1.0 </summary>
@@ -130,5 +130,35 @@ t = S/V
 ***
 
 </details>
+
+## Инструменты
+<p align="left"> 
+  <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" /></a>
+  <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/YouTrack_Icon.png" width="36" height="36" alt="Youtrack" /></a>
+</p> 
+
+## Процесс работы
+### 1 спринт
+#### Задача 1 (планирование тестирования)
+**Тест-анализ**  
+Для обеспечения полной ясности и понимания, требования были декомпозированы, чтобы убедиться, что все корректно охвачено и не существует недопониманий или серых зон. 
+
+<img width="411" alt="декомпозиция" src="https://github.com/user-attachments/assets/22abb87c-6c40-4485-8bea-0fea6dd12ff1" />
+<img width="413" alt="доп" src="https://github.com/user-attachments/assets/9bfd4573-f9ec-48ce-88d1-6716db5aa6ab" />
+
+
+Важно отметить, что другие виды транспорта были рассмотрены и проанализированы другими членами нашей команды тестировщиков.
+
+#### Задача 2 (планирование тестирования)
+**Техники-тест дизайна**  
+На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
+<img width="912" alt="часы-минуты" src="https://github.com/user-attachments/assets/dd3b510d-c892-427d-9220-7126f02ed5de" />
+<img width="908" alt="куда-откуда" src="https://github.com/user-attachments/assets/3321df8f-f18b-43e8-b16a-45f8ff38eefb" />
+<img width="907" alt="расстояние и скорость" src="https://github.com/user-attachments/assets/df03592f-a514-4e20-9b4f-3227c5ef77ab" />
+
+### 2 спринт
+#### Задача 2 (проектирование тестовой документации)
 
 
