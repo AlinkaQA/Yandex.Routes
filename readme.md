@@ -34,10 +34,9 @@
 
 #### Задачи для 2 спринта
  
-1. Провести тест-анализ требований расчёта времени и стоимости маршрута на собственном автомобиле.
-2. Применить технику тест-дизайна «Классы эквивалентности» 
-3. создать набор тест-кейсов на проверку правильности расчета времени и стоимости поездки на собственном автомобиле.
-4. Протестировать приложение и завести баг-репорты
+1. Провести тест-анализ требований расчёта времени и стоимости маршрута на собственном автомобиле. Применить технику тест-дизайна «Классы эквивалентности» 
+2. Создать набор тест-кейсов на проверку правильности расчета времени и стоимости поездки на собственном автомобиле.
+3. Протестировать приложение и завести баг-репорты
 
 </details>
 
@@ -153,12 +152,35 @@ t = S/V
 
 #### Задача 2 (планирование тестирования)
 **Техники-тест дизайна**  
+На данном этапе были использованы техники тест дизайна: классы эквивалентности и граничные значения для полей ввода (откуда, куда, часы и минуты)
+
 <img width="911" alt="часы-минуты" src="https://github.com/user-attachments/assets/2987aa06-fa6a-4f90-8841-a690ae858314" />
 <img width="909" alt="откуда-куда" src="https://github.com/user-attachments/assets/2751f061-e06a-4e5d-92c1-09461ef46764" />
-<img width="909" alt="расстояние-скорость" src="https://github.com/user-attachments/assets/748f96b1-da80-4a5f-ab2f-b4946d53b811" />
+
+#### Задача 3 (проектирование тестовой документации)
+<img width="955" alt="1" src="https://github.com/user-attachments/assets/106a5308-cf16-4dfc-b1f3-6d30ee463f6d" />
+<img width="958" alt="2" src="https://github.com/user-attachments/assets/389209a3-8832-4e14-be0b-fb92e19da4cb" />
+<img width="957" alt="3" src="https://github.com/user-attachments/assets/9678b13c-af36-41fc-874a-7630cabd28ef" />
+<img width="958" alt="4" src="https://github.com/user-attachments/assets/1f333e54-b99a-480c-abad-95979dbc6da7" />
+<img width="955" alt="5" src="https://github.com/user-attachments/assets/7a2901d3-51a5-416f-8a9e-e771e65dcf99" />
+<img width="960" alt="6" src="https://github.com/user-attachments/assets/275c55da-32cf-4a09-9cb6-284a40a11acb" />
+<img width="957" alt="7" src="https://github.com/user-attachments/assets/ff73fd95-e7b7-4001-9f7d-e670f3c9dee4" />
 
 
 ### 2 спринт
-#### Задача 2 (проектирование тестовой документации)
+#### Задача 1 (проектирование тестовой документации)
+<img width="762" alt="Снимок экрана 2025-01-22 в 17 44 49" src="https://github.com/user-attachments/assets/292a8710-1a66-473a-a187-f12aa827ca51" />
+
+#### Задача 2 (планирование тестирования)
+<img width="1064" alt="Снимок экрана 2025-01-22 в 17 26 22" src="https://github.com/user-attachments/assets/0081cb48-7582-47a7-aefd-77ab623c2d81" />
+
+
+#### Задача 3 (Баг-репорты по 1 и 2 спринту)
+<img width="937" alt="б1" src="https://github.com/user-attachments/assets/ad852c95-f3c4-4d08-bbbc-4a7ab68db6b2" />
+<img width="939" alt="б2" src="https://github.com/user-attachments/assets/25bdf7c2-fac2-4700-a054-cc2278c6ac57" />
+<img width="945" alt="б3" src="https://github.com/user-attachments/assets/765f200d-9f8f-4edb-ba76-0674869cc24d" />
+
+
+
 
 
