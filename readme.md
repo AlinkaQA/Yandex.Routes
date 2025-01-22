@@ -135,6 +135,10 @@ t = S/V
  <p align="left">   <a href="https://docs.google.com/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/240/1015/png-transparent-g-suite-google-docs-google-angle-rectangle-logo.png" width="36" height="36" alt="Google Sheets" /></a>  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>  <a><img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" width="36" height="36" alt="Devtools" /></a>  <a  </p>  
 
 ## Процесс работы
+
+<details>
+<summary> 1-спринт </summary> 
+ 
 ### 1 спринт
 #### Задача 1
 **Тест-анализ**  
@@ -175,7 +179,9 @@ t = S/V
 <img width="939" alt="б2" src="https://github.com/user-attachments/assets/25bdf7c2-fac2-4700-a054-cc2278c6ac57" />
 <img width="945" alt="б3" src="https://github.com/user-attachments/assets/765f200d-9f8f-4edb-ba76-0674869cc24d" />
 
+***
 
+</details>
 
 
 
