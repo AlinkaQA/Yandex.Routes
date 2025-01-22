@@ -166,7 +166,13 @@ t = S/V
 <img width="960" alt="6" src="https://github.com/user-attachments/assets/275c55da-32cf-4a09-9cb6-284a40a11acb" />
 <img width="957" alt="7" src="https://github.com/user-attachments/assets/ff73fd95-e7b7-4001-9f7d-e670f3c9dee4" />
 
+***
 
+</details>
+
+<details>
+<summary> 2-спринт </summary> 
+ 
 ### 2 спринт
 #### Задача 1 
 <img width="762" alt="Снимок экрана 2025-01-22 в 17 44 49" src="https://github.com/user-attachments/assets/292a8710-1a66-473a-a187-f12aa827ca51" />
